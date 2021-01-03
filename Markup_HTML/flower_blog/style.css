@@ -1,0 +1,81 @@
+body{
+    background-color : lightgrey;
+    font-family : helvetica;
+    margin : 0;
+}
+nav{
+    background-color : #333333;
+}
+h1{
+    margin : 3%;
+}
+ul{
+    display : flex;
+    justify-content : space-evenly;
+    padding : 1%;
+}
+li{
+    list-style: none;
+}
+#intro{
+    width : 90%;
+    border-radius : 10%;
+    margin : auto;
+    color : white;
+    background-image: url("images/intro_flower.png");
+    padding : 10% 2% 10% 2%;
+    background-repeat : no-repeat;
+    background-position : center;
+    background-size: 100%;
+}
+p {
+    width : 30%;
+}
+a{
+    color : #ABABAB;
+    text-decoration: none;
+}
+a:active{
+    color : white;
+}
+#content {
+    margin : 2%;
+}
+.blogPost div {
+    display : flex;
+    flex-wrap: wrap;
+}
+.blogPost p{
+    margin : 3%;
+}
+.blogPost img{
+    width : 30%;
+}
+footer{
+    width : 96%;
+    background-color : #333333;
+    color : white;
+    padding : 2%;
+}
+footer div{
+    display : flex;
+    justify-content : space-evenly;
+}
+footer ul{
+    display : block;
+}
+h3{
+    text-align : center;
+    align-items : baseline;
+}
+#comments article{
+    display : flex;
+    justify-content : space-evenly;
+
+}
+.parent{
+    display : flex;
+}
+form{
+    margin : auto;
+}
