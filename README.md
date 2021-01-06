@@ -1,6 +1,6 @@
 # Gruppenarbeit_VS2
-Beyel Buchleither Doerler Penner
 
+<br> <br>
 
 
 # Members
@@ -10,10 +10,11 @@ Beyel, Buchleither , Doerler, Penner.
 
 ## 1) Threads Future
 
+// noch machen
 
 ## 2) Threads Parkhaus
 
-// Kommentar 
+// noch machen
 
 
 ## 3) Übung Network 2
@@ -26,7 +27,7 @@ Bei einer neuen Clientanfrage geschieht das folgende am Server: er schaut, ob es
 
 b) Wie kann der Server alle Clients informieren? <br>
 
-	Der Server kann alle Clients informieren mittels der Funktion esAllenWeitersagen. <br> <br>
+Der Server kann alle Clients informieren mittels der Funktion esAllenWeitersagen. <br> <br>
 
 
 ### Übung 2 
@@ -168,7 +169,7 @@ Das target Attribut bei der definierung des Form kann dieses kontrollieren. <br>
 
 ### Aufgabe 2:
 
-Das Logo finden Sie im HTML5 Formular. 
+
 
 Testen Sie mit verschiedenen Browsern, ob die Formel angezeigt wird. Mindestens in aktuellen Firefox-Browsern (sowie im Safari Browser - MacOS) sollte es funktionieren. <br>
 
@@ -187,3 +188,4 @@ Beide Darstellungen funktionieren perfekt. <br> <br>
 
 ## 5) Skripte Datenbanken Praktikum 2-4
 
+// noch machen
