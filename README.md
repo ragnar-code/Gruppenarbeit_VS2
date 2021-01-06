@@ -12,9 +12,15 @@ Beyel, Buchleither , Doerler, Penner.
 
 Siehe Code.
 
+<br> <br> <br>
+
+
 ## 2) Threads Parkhaus
 
 Siehe Code.
+
+<br> <br> <br>
+
 
 
 ## 3) Übung Network 2
@@ -70,7 +76,7 @@ Der Computer macht eine anfrage über den link http://localhost. Der Browser ste
 Das Bild ist im „Body“ des HTML File. Die Funktion img + Datei Pfad ist verwendet, um das Bild einzugeben. Das Bild wird geladen wie für die Datei index.html. <br> <br>
 
 
-
+<br> <br> <br>
 
 
 
@@ -186,6 +192,8 @@ Den Quellcode kann man als einzelne Zeichen ansehen, um leichte Änderungen zu m
 **Da nicht alle Browser mit MathML umgehen können, gibt es JavaScript-Bibliotheken, die diese Lücke füllen. In math.html sind zwei noch auskommentierte script -Elemente enthalten, die die MathJax-Bibliothek laden. Probieren Sie beide Varianten (einzeln, nicht beide zusammen) in verschiedenen Browsern aus. In der ersten Variante wird die Formel für die Darstellung in SVG umgewandelt, in der zweiten wird HTML und CSS für die Darstellung verwendet** <br>
 
 Beide Darstellungen funktionieren perfekt. <br> <br>
+
+<br> <br> <br>
 
 
 ## 5) Skripte Datenbanken Praktikum 2-4
