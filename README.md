@@ -20,7 +20,8 @@ Beyel, Buchleither , Doerler, Penner.
 ## 3) Übung Network 2
 
 ### Übung 1 
-**Analysieren Sie bitte den Chart-Server und den Chat-Client. ** <br>
+**Analysieren Sie bitte den Chart-Server und den Chat-Client.** <br>
+
 **a) Was geschieht bei einer neuen Clientanfrage im Server?**  <br>
 
 Bei einer neuen Clientanfrage geschieht das folgende am Server: er schaut, ob es einer neuen Input Stream gibt und dann tut er die Nachricht anzeigen. <br> <br>
