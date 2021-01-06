@@ -10,14 +10,14 @@ Beyel, Buchleither , Doerler, Penner.
 
 ## 1) Threads Future
 
-Siehe Code.
+Siehe Code. (Erledigt)
 
-<br> <br> <br>
+<br> <br> <br> 
 
 
 ## 2) Threads Parkhaus
 
-Siehe Code.
+Siehe Code. (Erledigt)
 
 <br> <br> <br>
 
@@ -191,11 +191,11 @@ Den Quellcode kann man als einzelne Zeichen ansehen, um leichte Änderungen zu m
 
 **Da nicht alle Browser mit MathML umgehen können, gibt es JavaScript-Bibliotheken, die diese Lücke füllen. In math.html sind zwei noch auskommentierte script -Elemente enthalten, die die MathJax-Bibliothek laden. Probieren Sie beide Varianten (einzeln, nicht beide zusammen) in verschiedenen Browsern aus. In der ersten Variante wird die Formel für die Darstellung in SVG umgewandelt, in der zweiten wird HTML und CSS für die Darstellung verwendet** <br>
 
-Beide Darstellungen funktionieren perfekt. <br> <br>
+Beide Darstellungen funktionieren perfekt. 
 
 <br> <br> <br>
 
 
 ## 5) Skripte Datenbanken Praktikum 2-4
 
-// noch machen
+(Erledigt)
