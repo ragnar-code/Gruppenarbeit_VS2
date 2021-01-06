@@ -20,7 +20,7 @@ Beyel, Buchleither , Doerler, Penner.
 ## 3) Übung Network 2
 
 ### Übung 1 
-Analysieren Sie bitte den Chart-Server und den Chat-Client. 
+**Analysieren Sie bitte den Chart-Server und den Chat-Client. ** <br>
 **a) Was geschieht bei einer neuen Clientanfrage im Server?**  <br>
 
 Bei einer neuen Clientanfrage geschieht das folgende am Server: er schaut, ob es einer neuen Input Stream gibt und dann tut er die Nachricht anzeigen. <br> <br>
@@ -39,14 +39,15 @@ Der code aufbaut ein Server socket auf den Port 80 und dann wartet der Server au
 **Wie wird die Meldung an den Browser aufbereitet?** <br>
 
 Wenn man die Seite aufruft zeigt sie „Welcome to my Java Web Server!“ Und sie zeigt auch die Zeit.
-Die Zeit wird erhalten mit der Funktion getCurrentTimeStamp. In der Funktion HandleRequest wird die response des Servers einkodiert, es ist Text als HTML dargestellt das der Browser es Anzeigen kann. Es sind diese zeilen:
+Die Zeit wird erhalten mit der Funktion getCurrentTimeStamp. 
+In der Funktion HandleRequest wird die response des Servers einkodiert, es ist Text als HTML dargestellt das der Browser es Anzeigen kann. Es sind diese zeilen:
 
-String response = "<html>\n"
-+ "<head>\n"
-	+ "<title>My Java Web Server</title></head>\n"
-	+ "<h1>Welcome to my Java Web Server!</h1>\n"
-	+ "<p>Server Time: " +  getCurrentTimeStamp() + "</p>\n"
-	+ "</html>\n";
+>String response = "<html>\n"
+>+ "<head>\n"
+>	+ "<title>My Java Web Server</title></head>\n"
+>	+ "<h1>Welcome to my Java Web Server!</h1>\n"
+>	+ "<p>Server Time: " +  getCurrentTimeStamp() + "</p>\n"
+>	+ "</html>\n";
 
 
 ### Übung 3 
