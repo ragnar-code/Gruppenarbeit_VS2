@@ -10,11 +10,11 @@ Beyel, Buchleither , Doerler, Penner.
 
 ## 1) Threads Future
 
-// noch machen
+Siehe Code.
 
 ## 2) Threads Parkhaus
 
-// noch machen
+Siehe Code.
 
 
 ## 3) Übung Network 2
